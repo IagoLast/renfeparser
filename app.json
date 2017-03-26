@@ -1,0 +1,12 @@
+{
+	"name": "renfeparser",
+	"description": "Rest server providing renfe schedules",
+	"repository": "https://github.com/IagoLast/renfeparser",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": [
+		"rest",
+		"server",
+		"renfe",
+		"horarios",
+	]
+}
